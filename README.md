@@ -1,6 +1,10 @@
 # kEditor  
 
 一款 VI 风格的文本编辑器，支持 Windows 和 Linux 平台！
+启动命令：
+```bash
+./keditor <源文件路径> <保存路径>
+```
 
 # 图片展示  
 
